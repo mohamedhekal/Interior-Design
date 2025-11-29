@@ -1,0 +1,5 @@
+{
+  "name": "Rooftop Architect AI",
+  "description": "An AI-powered architectural planner for rooftop living spaces, generating layouts and 3D visualizations based on specific user constraints.",
+  "requestFramePermissions": []
+}
